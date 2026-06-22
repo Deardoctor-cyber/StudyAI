@@ -1,0 +1,6 @@
+{
+  "name": "StudyAI",
+  "description": "An AI-powered mobile-first web app for learning, featuring an AI study planner, doubt solver, and mock tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
